@@ -1,0 +1,17 @@
+address: https://test-stand.gb.ru/
+username: 14Mark14
+password: 11108ed6d6
+browser_name: firefox
+wait: 5
+
+title_api: "API New post"
+description_api: "API Create description"
+content_api: "API Create content"
+
+title_ui: "UI New post"
+description_ui: "UI Create description"
+content_ui: "UPI Create content"
+
+your_name: "Galina"
+your_email: "my_email@mail"
+your_content: "Text to send contact"

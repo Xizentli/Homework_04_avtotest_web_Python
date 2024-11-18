@@ -1,0 +1,18 @@
+2024-11-18 14:08:30 INFO Test 1 API Starting
+2024-11-18 14:08:33 INFO Test 2 API Starting
+2024-11-18 14:08:35 INFO Test 3 API Starting
+2024-11-18 14:08:36 INFO ====== WebDriver manager ======
+2024-11-18 14:08:37 INFO Get LATEST geckodriver version for None firefox
+2024-11-18 14:08:37 INFO Getting latest mozilla release info for v0.35.0
+2024-11-18 14:08:38 INFO About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win64.zip
+2024-11-18 14:08:39 INFO Driver downloading response is 200
+2024-11-18 14:08:39 INFO Get LATEST geckodriver version for None firefox
+2024-11-18 14:08:40 INFO Get LATEST geckodriver version for None firefox
+2024-11-18 14:08:40 INFO Driver has been saved in cache [C:\Users\aksai\.wdm\drivers\geckodriver\win64\v0.35.0]
+2024-11-18 14:08:46 INFO Test 1 UI Starting
+2024-11-18 14:08:58 INFO Test 2 UI Starting
+2024-11-18 14:09:04 INFO Test 3 UI Starting
+2024-11-18 14:09:15 INFO Test 4 UI Starting
+2024-11-18 14:09:20 INFO Test 5 UI Starting
+2024-11-18 14:09:26 INFO Get alert text
+2024-11-18 14:09:26 INFO Form successfully submitted
